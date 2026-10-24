@@ -18,11 +18,11 @@ Train a machine learning classification model.
 Evaluate the model's ability to distinguish fraudulent and legitimate postings.
 
 # Technologies Used:
-Python
-Pandas and NumPy
-Matplotlib and Seaborn
-Scikit-learn
-Jupyter Notebook / Google Colab
+- Python
+- Pandas and NumPy
+- Matplotlib and Seaborn
+- Scikit-learn
+- Jupyter Notebook / Google Colab
 
 # Expected Outcome:
 A machine learning workflow for identifying potentially fraudulent job postings using data analysis and classification.
